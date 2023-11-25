@@ -8,7 +8,7 @@ Main author: advancedAI Hu
 
 Second author: Inberrado Wang
 
-Inspiration author: Games Workshop, TSR, WIZARDS, Project Moon
+Inspiration author: Games Workshop, TSR, WIZARDS, Project Moon, Inberrado Wang
 
 Corresponding author: 
 
