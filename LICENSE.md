@@ -30,20 +30,24 @@ Fantasy“按原样”提供，不提供任何形式的保证，无论是明示�
 
 # Short Overview
 You are allowed to copy, modify or distribute this fantasy story set (the "Fantasy"). However you are use allowed to commercial use it without the permission. 
+
 If you want to distribute the copy:
 1. Keep the original founder authors.
 2. If you have modified the content, add yourself as the main author. And move the original main author to Second author.
 3. If you haven't modified the content, pls keep the original authors as they are.
+
 If you take any idea from the Fantasy and create your own story:
 1. Pls use this license (AXEL License).
 2. Add yourself as the founder author and the main author.
 3. Add all authors in the Fantasy into Inspiration author of your story.
 
 你能够复制，更改或者分发此幻想故事设定集(Fantasy)。但是你不被允许将其投入商业使用
+
 如果你想要分发Fantasy：
 1. 保持原来的founder author
 2. 如果你更改了内容，添加你自己为main author，并将原先的main author加入second author
 3. 如果你没有更改内容，请不要更改authors的内容
+
 如果你从中得到了创意来写出你自己的故事：
 1. 请使用本license (AXEL License)
 2. 将你自己添加为founder author和main author
