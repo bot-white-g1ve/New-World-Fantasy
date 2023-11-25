@@ -2,8 +2,10 @@
 以西格玛为信仰建立的大帝国
 
 # 领土
-![map1](map1.jpg)
-![map2](map2.jpg)
+<img src="map1.jpg" style="width:80%;">
+
+<img src="map2.jpg" style="width:80%;">
+
 - 瑞克领：心脏和魔法学院
 - 希尔瓦尼亚：吸血鬼
 - 塔拉贝克领：辽阔
