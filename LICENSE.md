@@ -1,9 +1,15 @@
 AXEL License
+
 Copyright (c) [2024]
+
 Founder author: advancedAI Hu
+
 Main author: advancedAI Hu
+
 Second author: 
+
 Inspiration author: Games Workshop, TSR, WIZARDS, Project Moon
+
 Corresponding author: 
 
 # License Content
