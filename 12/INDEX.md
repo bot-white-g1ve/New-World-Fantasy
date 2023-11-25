@@ -1,1 +1,1 @@
-CRAFT网页(https://docs.craft.do/s/%E7%AC%AC%E4%B8%80%E4%BA%BA%E7%A7%B0--685f5b21-b0fc-42c6-f869-dc6a4511b54a/)
+[CRAFT网页](https://docs.craft.do/s/%E7%AC%AC%E4%B8%80%E4%BA%BA%E7%A7%B0--685f5b21-b0fc-42c6-f869-dc6a4511b54a/)
