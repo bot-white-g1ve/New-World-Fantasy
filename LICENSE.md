@@ -6,9 +6,9 @@ Founder author: advancedAI Hu
 
 Main author: advancedAI Hu
 
-Second author: Inberrado Wang
+Second author: 
 
-Inspiration author: Games Workshop, TSR, WIZARDS, Project Moon, Inberrado Wang
+Inspiration author: Games Workshop, TSR, WIZARDS, Project Moon, Inberrado Wang, sbom_xela
 
 Corresponding author: 
 
