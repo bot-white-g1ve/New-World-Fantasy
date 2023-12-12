@@ -8,7 +8,7 @@ Main author: advancedAI Hu
 
 Second author: 
 
-Inspiration author: Games Workshop, TSR, WIZARDS, Project Moon, Inberrado Wang, sbom_xela
+Inspiration author: Games Workshop, TSR, WIZARDS, Project Moon, Inberrado Wang, sbom_xela, Hubert Moszka
 
 Corresponding author: 
 
