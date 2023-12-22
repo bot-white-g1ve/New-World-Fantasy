@@ -16,8 +16,9 @@
 - [3001](SCPs/3001/.md)
 - [3114](SCPs/3114/.md)
 
-# MTFS
-[MTFs](MTF/.md)
+# 收容措施
+- [MTFs](MTF/.md)
+- [暗号](术语/暗号/.md)
 
 # 站点
 - [site-01](站点/site-01/.md)
